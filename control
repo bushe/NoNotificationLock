@@ -1,0 +1,9 @@
+Package: com.bushe.nonotificationlock
+Name: nonotificationlock
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Ryan Bushe
+Author: Ryan Bushe
+Section: Tweaks
